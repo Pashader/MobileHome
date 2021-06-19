@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 import java.util.concurrent.atomic.*;
-// гит работает? оо
+// гит работает? оооо
 class Main { 
 	static ArrayList<Thread> arrThread = new ArrayList<>();
 	
